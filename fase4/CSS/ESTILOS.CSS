@@ -7,15 +7,14 @@ nav{
 }
 section{
     float: left;
-    width: 60%;
-background-color: rgb(69, 77, 62);
+    width: 70%;
+background-color: rgb(161, 190, 132);
 }
 
 footer{
     
-    background-color: rgb(66, 52, 61);
-    color: #f1eeee;
-    width: 100%;
+    background-color: rgb(26, 74, 94);
+    color: rgb(241, 238, 238);
 }
 .contenedor::after{
     content:'';
@@ -27,16 +26,16 @@ aside{
     float: left;
     width: 30%;
     
-background-color: rgb(76, 83, 83);
+background-color: rgb(18, 122, 122);
 }
 
 
 head{
-    background-color: antiquewhite;
+    background-color: darkslateblue;
 }
 
 
 h6{
-    background-color: rgb(111, 73, 248);
+    background-color: lightcyan;
     width: 70%;
 }
