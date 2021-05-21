@@ -14,7 +14,7 @@ background-color: rgb(161, 190, 132);
 footer{
     
     background-color: rgb(73, 131, 156);
-    color: rgb(241, 238, 238);
+    color: rgb(14, 11, 11);
 }
 .contenedor::after{
     content:'';
@@ -36,6 +36,7 @@ head{
 
 
 h6{
-    background-color: lightcyan;
-    width: 70%;
+    background-color: rgb(240, 247, 247);
+  
+    
 }
